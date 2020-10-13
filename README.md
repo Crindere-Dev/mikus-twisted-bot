@@ -1,5 +1,5 @@
-# Cringe Bot, Official Gacha Life Cringe Discord Bot
-This is the source code for the official bot of the Gacha Life Cringe Discord! if you are invited here you must be special
+# Miku's twisted bot
+This is the source code for the ex official bot of the Gacha Life Cringe Discord!
 ### Creating new commands
 This bot is very modular, every command is a nodejs module as you can see in dirrectory commands
 the basic template for creating a command is
@@ -29,4 +29,8 @@ Deployment is quite easy, all you require is an ubuntu server, and it's architec
 6. cd /etc/cringebot/cringe-bot-v2/
 7. git clone https://github.com/Able-Times/cringe-bot69420
 8. cd cringe-bot69420
-9. sudo pm2 start index.js
+9. npm install
+10. sudo pm2 start index.js
+# Please read side bar
+
+Credit to @NyleCohen and @Able-Times
