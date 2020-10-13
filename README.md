@@ -13,7 +13,7 @@ module.exports = {
 	},
 };
 ```
-every module is passed down **three** arguments, the message, arguments, and the Discord.js Library
+every module is passed down **FIVE** arguments, the message, arguments, the Discord.js Library, client, and version
 this is made to make it easy to write commands for the bot
 ### Deployment (Ubuntu 20.04)
 
